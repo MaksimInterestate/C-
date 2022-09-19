@@ -1,0 +1,15 @@
+C:\Users\максим\Desktop\Максим\Управление проектами\С #\1-2\Examples\Example001_Hello,world\bin\Debug\net6.0\Example001_Hello,world.exe
+C:\Users\максим\Desktop\Максим\Управление проектами\С #\1-2\Examples\Example001_Hello,world\bin\Debug\net6.0\Example001_Hello,world.deps.json
+C:\Users\максим\Desktop\Максим\Управление проектами\С #\1-2\Examples\Example001_Hello,world\bin\Debug\net6.0\Example001_Hello,world.runtimeconfig.json
+C:\Users\максим\Desktop\Максим\Управление проектами\С #\1-2\Examples\Example001_Hello,world\bin\Debug\net6.0\Example001_Hello,world.dll
+C:\Users\максим\Desktop\Максим\Управление проектами\С #\1-2\Examples\Example001_Hello,world\bin\Debug\net6.0\Example001_Hello,world.pdb
+C:\Users\максим\Desktop\Максим\Управление проектами\С #\1-2\Examples\Example001_Hello,world\obj\Debug\net6.0\Example001_Hello,world.csproj.AssemblyReference.cache
+C:\Users\максим\Desktop\Максим\Управление проектами\С #\1-2\Examples\Example001_Hello,world\obj\Debug\net6.0\Example001_Hello,world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\максим\Desktop\Максим\Управление проектами\С #\1-2\Examples\Example001_Hello,world\obj\Debug\net6.0\Example001_Hello,world.AssemblyInfoInputs.cache
+C:\Users\максим\Desktop\Максим\Управление проектами\С #\1-2\Examples\Example001_Hello,world\obj\Debug\net6.0\Example001_Hello,world.AssemblyInfo.cs
+C:\Users\максим\Desktop\Максим\Управление проектами\С #\1-2\Examples\Example001_Hello,world\obj\Debug\net6.0\Example001_Hello,world.csproj.CoreCompileInputs.cache
+C:\Users\максим\Desktop\Максим\Управление проектами\С #\1-2\Examples\Example001_Hello,world\obj\Debug\net6.0\Example001_Hello,world.dll
+C:\Users\максим\Desktop\Максим\Управление проектами\С #\1-2\Examples\Example001_Hello,world\obj\Debug\net6.0\refint\Example001_Hello,world.dll
+C:\Users\максим\Desktop\Максим\Управление проектами\С #\1-2\Examples\Example001_Hello,world\obj\Debug\net6.0\Example001_Hello,world.pdb
+C:\Users\максим\Desktop\Максим\Управление проектами\С #\1-2\Examples\Example001_Hello,world\obj\Debug\net6.0\Example001_Hello,world.genruntimeconfig.cache
+C:\Users\максим\Desktop\Максим\Управление проектами\С #\1-2\Examples\Example001_Hello,world\obj\Debug\net6.0\ref\Example001_Hello,world.dll
